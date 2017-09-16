@@ -1,15 +1,15 @@
 Usage
 
-Start the server with
-
-```
-npm Start
-```
-
 Setup
 
 ```
 npm install
+```
+
+Start the server with
+
+```
+npm Start
 ```
 
 compile
