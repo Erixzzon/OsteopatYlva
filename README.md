@@ -9,7 +9,7 @@ npm install
 Start the server with
 
 ```
-npm Start
+npm start
 ```
 
 compile
