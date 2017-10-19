@@ -1,0 +1,41 @@
+body {
+  background-image: url('/background.jpg');
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.navbar {
+  opacity: 0.5;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.brand {
+  font-family: 'Actor';
+  margin-top: 200px;
+  color:white;
+}
+
+.panels {
+  margin-top: 25px;
+}
+
+.panel {
+  opacity: 0.7;
+}
+
+.panel-body {
+  color: black;
+}
