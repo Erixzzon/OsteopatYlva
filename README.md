@@ -1,7 +1,7 @@
 
 http://osteopatylva.se/
 
-Creating a website with React
+Creating a website with React (under construction)
 
 Setup projekt
 
